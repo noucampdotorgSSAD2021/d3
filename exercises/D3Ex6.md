@@ -1,6 +1,6 @@
 # D3 Exercise 6 – D3 Path & Generators
 		
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
+> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
 
 
 ## Part 1 - SVG Path Element
